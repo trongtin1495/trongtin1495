@@ -1,4 +1,10 @@
 ![90s Retro Projects __ Photos, videos, logos, illustrations and branding](https://github.com/user-attachments/assets/116da002-a327-482a-8ec9-7fc9de535d5f)
+<div align="center">
+    <h1>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+[Your Name];This+is..;..my+Github..;" alt="Typing SVG"/>
+    </h1>
+</div>
+
 # 👋 Hi, I'm Tín Le
 
 🚀 Passionate **iOS Developer** | 📱 Mobile Developer (Swift, Flutter)  
